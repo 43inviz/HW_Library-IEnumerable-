@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\bin\Debug\HW_Library.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\bin\Debug\HW_Library.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\bin\Debug\HW_Library.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\obj\Debug\HW_Library.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\obj\Debug\HW_Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\obj\Debug\HW_Library.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\HW_Library\obj\Debug\HW_Library.pdb
